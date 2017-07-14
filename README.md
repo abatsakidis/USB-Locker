@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/abatsakidis/usb_locker.svg?branch=master)](https://travis-ci.org/abatsakidis/usb_locker)
+
 ## Description ##
 
 A Simple USB Desktop Locker for Windows Systems.
