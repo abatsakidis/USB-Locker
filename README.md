@@ -27,10 +27,10 @@ You could change these properties using the "settings" parameter.
 **CPU**: Intel 2 Quad Q6600 (4) @ 2.400GHz <br>
 **Memory**: 2690MiB / 4085MiB <br>
 
-## Created using ##
+## Build ##
 
-Visual Studio 2017<br>
-C#<br>
+* Use Visual Studio 2017<br>
+* Open application's solution file (USBLocker.sln)<br>
 
 ## Author ##
 
