@@ -15,6 +15,7 @@ You could change these properties using the "settings" parameter.
 ## How To ##
 
 * First run the application using the parameter **"settings"** : ex. **usb_locker.exe settings**
+![Alt text](/screenshots/settings.jpg?raw=true "USB Locker Settings")
 * Run the application without any parameter.
 * The application will check if there is any USB device with the specific file and data. If not, it will lock the computer.
 
