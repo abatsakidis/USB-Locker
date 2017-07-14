@@ -27,6 +27,11 @@ You could change these properties using the "settings" parameter.
 **CPU**: Intel 2 Quad Q6600 (4) @ 2.400GHz <br>
 **Memory**: 2690MiB / 4085MiB <br>
 
+## Created using ##
+
+Visual Studio 2017
+C#
+
 ## Author ##
 
 Batsakidis Athanasios<br>
