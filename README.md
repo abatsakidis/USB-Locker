@@ -29,8 +29,8 @@ You could change these properties using the "settings" parameter.
 
 ## Created using ##
 
-Visual Studio 2017
-C#
+Visual Studio 2017<br>
+C#<br>
 
 ## Author ##
 
