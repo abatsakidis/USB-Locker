@@ -24,7 +24,7 @@ namespace USBLocker
         }
 
         //Cancel
-        private static void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }

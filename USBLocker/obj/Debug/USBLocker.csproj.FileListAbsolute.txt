@@ -10,7 +10,6 @@ c:\users\mantis\documents\visual studio 2017\Projects\USBLocker\USBLocker\obj\De
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\bin\Debug\USBLocker.exe.config
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\bin\Debug\USBLocker.exe
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\bin\Debug\USBLocker.pdb
-C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.csprojResolveAssemblyReference.cache
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.MainForm.resources
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.Properties.Resources.resources
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.Settings.resources
