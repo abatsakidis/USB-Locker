@@ -17,11 +17,6 @@ namespace USBLocker
         [DllImport("user32.dll", SetLastError = true)]
         static extern bool LockWorkStation();
 
-        //string _serialNumber;
-       // string _driveLetter;
-
-
-
         private void timer1_Tick(object sender, EventArgs e)
         {
             check_lock();
