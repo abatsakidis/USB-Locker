@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/abatsakidis/usb_locker.svg?branch=master)](https://travis-ci.org/abatsakidis/usb_locker)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/79e174e8c51d417f94160cc427caaf88)](https://www.codacy.com/app/a.batsakidis/usb_locker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/usb_locker&amp;utm_campaign=Badge_Grade)
 
 ## Description ##
 
