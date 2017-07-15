@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 
 namespace USBLocker
 {
-    public partial class MainForm : Form
+    public partial class MainForm : Form //NOSONAR 
     {
         public MainForm()
         {

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace USBLocker
 {
-    public partial class Settings : Form
+    public partial class Settings : Form //NOSONAR 
     {
         public Settings()
         {
