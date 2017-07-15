@@ -81,11 +81,11 @@ namespace USBLocker
              }
         }
 
-        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
-        {
-            this.Show();
-            this.WindowState = FormWindowState.Normal;
-        }
+       // private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+      //  {
+       //     this.Show();
+       //     this.WindowState = FormWindowState.Normal;
+       // }
 
         private void Form1_Shown(object sender, EventArgs e)
         {
