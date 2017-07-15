@@ -45,7 +45,7 @@ namespace USBLocker
 
                         if (myString.Contains(Properties.Settings.Default.filedata))
                         {
-
+                            label1.Text = "OK";
                         }
                         else
                         {
@@ -68,12 +68,7 @@ namespace USBLocker
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-
-        }
-
+      
         private void Form1_Resize(object sender, EventArgs e)
         {
                 notifyIcon1.BalloonTipTitle = "USB Locker";
