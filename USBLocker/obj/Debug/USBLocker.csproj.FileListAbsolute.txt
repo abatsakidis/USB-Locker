@@ -16,4 +16,3 @@ C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.csproj.GenerateResource.Cache
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.exe
 C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.pdb
-C:\Users\mantis\Documents\Source\Repos\usb_locker\USBLocker\obj\Debug\USBLocker.csprojResolveAssemblyReference.cache

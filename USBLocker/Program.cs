@@ -16,7 +16,7 @@ namespace USBLocker
         {
             if (args.Length > 0 && args[0].Equals("settings"))
             {
-                string arg1 = args[0];
+                //string arg1 = args[0];
                 // do something appropriate with
                 // arg1 here.
                 Application.EnableVisualStyles();
