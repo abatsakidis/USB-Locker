@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/abatsakidis/usb_locker.svg?branch=master)](https://travis-ci.org/abatsakidis/usb_locker)
 [![Build status](https://ci.appveyor.com/api/projects/status/6hg1u44n4g53mhgc?svg=true)](https://ci.appveyor.com/project/abatsakidis/usb-locker)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/79e174e8c51d417f94160cc427caaf88)](https://www.codacy.com/app/a.batsakidis/usb_locker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/usb_locker&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b041bdff7e43446598d8c18c8a34bd3d)](https://www.codacy.com/gh/abatsakidis/USB-Locker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abatsakidis/USB-Locker&amp;utm_campaign=Badge_Grade)
 
 ## Description ##
 
